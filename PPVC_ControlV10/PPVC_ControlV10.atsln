@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "PPVC_ControlV10", "PPVC_ControlV10.cppproj", "{015F1084-A0B6-4077-92F2-33F01AD9CA8F}"
+EndProject
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "PPVC_OffboardV1", "..\PPVC_OffboardV1\PPVC_OffboardV1.cppproj", "{B1AFCF5D-04B1-4EA2-B143-CCE154B690BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|AVR = Debug|AVR
+		Release|ARM = Release|ARM
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{015F1084-A0B6-4077-92F2-33F01AD9CA8F}.Debug|ARM.ActiveCfg = Debug|AVR
+		{015F1084-A0B6-4077-92F2-33F01AD9CA8F}.Debug|AVR.ActiveCfg = Debug|AVR
+		{015F1084-A0B6-4077-92F2-33F01AD9CA8F}.Debug|AVR.Build.0 = Debug|AVR
+		{015F1084-A0B6-4077-92F2-33F01AD9CA8F}.Release|ARM.ActiveCfg = Release|AVR
+		{015F1084-A0B6-4077-92F2-33F01AD9CA8F}.Release|AVR.ActiveCfg = Release|AVR
+		{015F1084-A0B6-4077-92F2-33F01AD9CA8F}.Release|AVR.Build.0 = Release|AVR
+		{B1AFCF5D-04B1-4EA2-B143-CCE154B690BD}.Debug|ARM.ActiveCfg = Debug|ARM
+		{B1AFCF5D-04B1-4EA2-B143-CCE154B690BD}.Debug|ARM.Build.0 = Debug|ARM
+		{B1AFCF5D-04B1-4EA2-B143-CCE154B690BD}.Debug|AVR.ActiveCfg = Debug|ARM
+		{B1AFCF5D-04B1-4EA2-B143-CCE154B690BD}.Release|ARM.ActiveCfg = Release|ARM
+		{B1AFCF5D-04B1-4EA2-B143-CCE154B690BD}.Release|ARM.Build.0 = Release|ARM
+		{B1AFCF5D-04B1-4EA2-B143-CCE154B690BD}.Release|AVR.ActiveCfg = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

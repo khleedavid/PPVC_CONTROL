@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "PPVC_OffboardV1", "PPVC_OffboardV1.cppproj", "{B1AFCF5D-04B1-4EA2-B143-CCE154B690BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1AFCF5D-04B1-4EA2-B143-CCE154B690BD}.Debug|ARM.ActiveCfg = Debug|ARM
+		{B1AFCF5D-04B1-4EA2-B143-CCE154B690BD}.Debug|ARM.Build.0 = Debug|ARM
+		{B1AFCF5D-04B1-4EA2-B143-CCE154B690BD}.Release|ARM.ActiveCfg = Release|ARM
+		{B1AFCF5D-04B1-4EA2-B143-CCE154B690BD}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
